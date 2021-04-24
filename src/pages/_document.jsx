@@ -35,12 +35,12 @@ export default class MyDocument extends Document {
           <link rel="stylesheet" href="https://use.typekit.net/dqh8dph.css" />
           <link rel="stylesheet" href="/fonts.css" />
           <link rel="icon" href="/favicon.png" />
+          <meta name="viewport" content="width=device-width, user-scalable=no" />
         </Head>
         <body
           className="bg-size-small lg:bg-size-large h-full overflow-hidden overscroll-none"
           style={{
-            // backgroundImage: "url(/assets/repeating/pattern-grid.svg)",
-            backgroundColor: "#111116",
+            backgroundColor: "#000",
           }}
         >
           <Main />

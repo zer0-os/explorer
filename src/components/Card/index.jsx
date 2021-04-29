@@ -8,10 +8,10 @@ const ContainerCard = styled.div`
 `;
 
 const BaseCard = styled.div`
-  width: 358px;
-  height: 500px;
+  width: 320px;
+  height: 520px;
   background-color: #222222;
-  background-image: url("/card/card.png");
+  background-image: url("/card/new.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

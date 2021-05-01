@@ -41,6 +41,11 @@ export default function Home() {
           </div>
         </BaseContainer>
       </div>
+      <div className="absolute bottom-0 mb-6 w-full text-center md:mb-24">
+        <LinkButton size="large" href="#">
+          Make your own Universe
+        </LinkButton>
+      </div>
     </div>
   );
 }

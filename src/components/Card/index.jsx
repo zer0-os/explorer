@@ -11,7 +11,7 @@ const BaseCard = styled.div`
   width: 320px;
   height: 520px;
   background-color: #222222;
-  background-image: url("/card/new.png");
+  background-image: url("/card/planet.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
